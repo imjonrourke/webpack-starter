@@ -6,6 +6,10 @@
   "author": "Jonathan Rourke <jrourke@chewy.com>",
   "license": "MIT",
   "dependencies": {
+    "html-webpack-plugin": "^2.28.0",
     "webpack": "^3.0.0"
+  },
+  "scripts": {
+	"build": "webpack"
   }
 }
