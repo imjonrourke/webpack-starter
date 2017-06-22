@@ -1,0 +1,11 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/imjonrourke/webpack-starter.git",
+  "author": "Jonathan Rourke <jrourke@chewy.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.0.0"
+  }
+}
